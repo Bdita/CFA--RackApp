@@ -1,4 +1,4 @@
-# CFA-RackApp
+RackApp
 
 A customized rack application created using gem 'rack'. A Rack application is a Ruby object (not a class) that responds to call.
 It takes exactly one argument with info about the request and the server, i.e the environment.
